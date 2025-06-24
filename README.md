@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Juveria Rehman
 
-<!--
-**Juveria346/Juveria346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 **M.Sc. in Virology (2024) | Jamia Millia Islamia**  
+🧬 **Computational Structural Biology | Protein Modelling | Antibody Engineering**  
 
-Here are some ideas to get you started:
+💻 **Skills:**  
+- Python, R  
+- AlphaFold2, Homology Modelling  
+- Molecular Dynamics Simulation (AMBER, CPPTRAJ)  
+- Hydrogen Bond Analysis, Energy Calculations  
+- NGS Data Analysis  
+- Visualization: PyMol, Chimera  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Projects:**  
+- **Humanization of Anti-CD3 Antibodies Using Protein Language Models**  
+  _Computational humanization of OKT3 antibody; homology modelling, AlphaFold2 structure prediction, BIOPHI scoring._  
+
+- **NGS Data Analysis on Cancer Genomics**  
+  _(To be uploaded soon)_  
+
+- **Molecular Docking and Virtual Screening**  
+  _Docking of antiviral compounds on target viral proteins._  
+
+📫 **Contact:** your_email@gmail.com  
+
+---
+
+_Actively looking for Research Assistant, Bioinformatics, or Computational Biology roles. Open to remote opportunities._  
