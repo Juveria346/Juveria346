@@ -21,7 +21,7 @@
 - **Molecular Docking and Virtual Screening**  
   _Docking of antiviral compounds on target viral proteins._  
 
-📫 **Contact:** your_email@gmail.com  
+📫 **Contact:** juveriar77@gmail.com  
 
 ---
 
